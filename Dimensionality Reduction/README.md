@@ -16,3 +16,4 @@ PCA was used to reduce the dimensionality of the dataset by transforming it into
 t-Distributed Stochastic Neighbor Embedding (t-SNE):
 
 t-SNE is a non-linear technique that is particularly effective for visualizing high-dimensional data in two or three dimensions. It works by converting similarities between data points to joint probabilities and minimizing the Kullback-Leibler divergence between the joint probabilities of the low-dimensional embedding and the high-dimensional data.
+
